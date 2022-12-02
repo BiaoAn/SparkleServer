@@ -3,10 +3,10 @@
     <channel>
         <title>SparkleDemo</title>
         <item>
-            <title>1.0</title>
+            <title>2.0</title>
             <pubDate>Fri, 02 Dec 2022 11:03:47 +0800</pubDate>
-            <sparkle:version>1</sparkle:version>
-            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>2.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
             <enclosure url="https://raw.githubusercontent.com/BiaoAn/SparkleServer/main/SparkleDemo.zip" length="1144071" type="application/octet-stream" sparkle:edSignature="O8JBpqXcSdzFkwOLYLpwI7/tKRAGPPehN03oDupJeCyMODjJCaIUfRjQa2SA3dYynPKFV5tMsY29azAH9gJqDg=="/>
         </item>
