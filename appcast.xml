@@ -1,7 +1,7 @@
 <?xml version="1.0" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
-        <title>SparkleDemo2</title>
+        <title>SparkleDemo0</title>
         <item>
             <title>3.0</title>
             <sparkle:releaseNotesLink>
