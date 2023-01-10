@@ -1,0 +1,17 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>SparkleDemo</title>
+        <item>
+            <title>3.0</title>
+            <sparkle:releaseNotesLink>
+               https://raw.githubusercontent.com/BiaoAn/SparkleServer/main/QBReleaseNote.html
+            </sparkle:releaseNotesLink>
+            <pubDate>Tue, 10 Jan 2023 17:35:30 +0800</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>3.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/BiaoAn/SparkleServer/main/SparkleDemo.zip" length="1165281" type="application/octet-stream" sparkle:edSignature="djPrOnmSqARSm3xzFxGZY2mgFLpkTACCoi5FcB8VJad69qAQATJvQiGnCsojYJoxBPIHwY2wJGIsTvjsVvRhBg=="/>
+        </item>
+    </channel>
+</rss>
