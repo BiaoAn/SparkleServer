@@ -3,7 +3,7 @@
     <channel>
         <title>SparkleDemo</title>
         <item>
-            <title>3.0</title>
+            <title>3.1</title>
             <sparkle:releaseNotesLink>
                https://raw.githubusercontent.com/BiaoAn/SparkleServer/main/QBReleaseNote.html
             </sparkle:releaseNotesLink>
