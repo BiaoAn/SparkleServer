@@ -1,0 +1,14 @@
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+<channel>
+<title>QQBrowser</title>
+<item>
+<title>5.0.2.004</title>
+<sparkle:releaseNotesLink> https://raw.githubusercontent.com/BiaoAn/SparkleServer/main/QBReleaseNote.html </sparkle:releaseNotesLink>
+<pubDate>Thu, 12 Jan 2023 12:52:58 +0800</pubDate>
+<sparkle:version>5.0.2.004</sparkle:version>
+<sparkle:shortVersionString>5.0.2.004</sparkle:shortVersionString>
+<sparkle:minimumSystemVersion>10.11.0</sparkle:minimumSystemVersion>
+<enclosure url="https://dldir1v6.qq.com/invc/tt/QB/Public/qbmac/QQBrowser.dmg" length="119638491" type="application/octet-stream" sparkle:edSignature="ubB+vo9E/LVh5/zF5sXucRoshb+E0DUNYkjbxlnJ2ZENWyixjvOuBOeVSrMzCLnsTq/BD1bpcUAr20g8UzC+DA=="/>
+</item>
+</channel>
+</rss>
