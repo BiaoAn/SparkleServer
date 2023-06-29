@@ -11,6 +11,9 @@
             if (window.webkit && window.webkit.messageHandlers && window.webkit.messageHandlers.observe) {
                 window.webkit.messageHandlers.observe.postMessage(message); // 发送消息到浏览器 
             }
+
+                        var event = new Event("passport");
+      window.dispatchEvent(event);
         }
     </script>
 </head>
