@@ -8,8 +8,8 @@
         function copyText() {
             document.getElementById("field2").value = document.getElementById("field1").value;
             var message = "passport"; // 设置要发送的消息
-            if (window.webkit && window.webkit.messageHandlers && window.webkit.messageHandlers.observe) {
-                window.webkit.messageHandlers.observe.postMessage(message); // 发送消息到浏览器 
+            if (window.webkit && window.webkit.messageHandlers && window.webkit.messageHandlers.passport) {
+                window.webkit.messageHandlers.passport.postMessage(message); // 发送消息到浏览器 
             }
 
                         var event = new Event("passport");
